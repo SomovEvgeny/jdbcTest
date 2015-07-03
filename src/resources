@@ -1,0 +1,2 @@
+insert into goods (id,amount) values (5,25);
+select * from goods;
